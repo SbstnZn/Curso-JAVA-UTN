@@ -1,0 +1,5 @@
+boca;river;0
+colon;union;1
+talleres;belgrano;1
+rosario_central;newells;2
+banfield;lanus;1
