@@ -1,0 +1,6 @@
+url=jdbc:mysql://localhost:3306/tp_integrador
+user=root
+password=root
+puntos=1
+extra_ronda=0
+extra_fase=0
